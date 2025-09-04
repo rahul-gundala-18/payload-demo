@@ -1,0 +1,110 @@
+fileignoreconfig:
+  - filename: next-env.d.ts
+    checksum: a7cfb67889fbf0ab1135bdf1829bd1dd201c881005afee10fd37bae94ad28ad7
+    ignore_detectors: [filecontent, filename]
+  - filename: src/environment.d.ts
+    checksum: 8521040633f361027aefc394e1260921298ba1832176f537e9ab1fddd715d5c4
+    ignore_detectors: [filecontent, filename]
+  - filename: test.env
+    checksum: f0d583bf99af7171f790de22b020ff18ac4791c96469076dcc2d266f466d514e
+    ignore_detectors: [filecontent, filename]
+  - filename: Dockerfile
+    checksum: 4143c67f9a398533379c5edea5e43b3b2814e901e1e487808a82fd245948b415
+    ignore_detectors: [filecontent, filename]
+  - filename: src/app/(payload)/admin/importMap.js
+    checksum: 4e29a1db512371b3ed99f386f8685088ae9560500728306101e35a859097b213
+    ignore_detectors: [filecontent, filename]
+  - filename: src/components/Media/ImageMedia/index.tsx
+    checksum: 5af68ab2817d59f1a53018a45f4d29dee01eab68325b2a60342e0890c29b8fec
+    ignore_detectors: [filecontent, filename]
+  - filename: package-lock.json
+    checksum: 123d973859a0f39f6174b8261e17f823519af0dd89191c620dcea6b1eba52339
+    ignore_detectors: [filecontent, filename]
+  - filename: src/blocks/Code/Component.client.tsx
+    checksum: fdff430233c6b2bbc5491f2c1693f91a478f361d216a3d113a2cc5379b6498bb
+    ignore_detectors: [filecontent, filename]
+  - filename: src/Header/Nav/index.tsx
+    checksum: 574f34e69d1a5b160f6be4ce154070597d746983c5689cf30efa3ec10cb782bc
+    ignore_detectors: [filecontent, filename]
+  - filename: src/utilities/deepMerge.ts
+    checksum: ccd6319115e1327a3b4cbec7aba9cc6500afac799ee9a4fc72634aa85885918c
+    ignore_detectors: [filecontent, filename]
+  - filename: src/utilities/generatePreviewPath.ts
+    checksum: 66e91efa9d4e214fcb553b65da40266754158f121d3e23ceaa9694951cb51604
+    ignore_detectors: [filecontent, filename]
+  - filename: src/blocks/RelatedPosts/Component.tsx
+    checksum: e6f2057349d1f1d1797806ea332b4865f91d461bd822e74d801d193a570864a8
+    ignore_detectors: [filecontent, filename]
+  - filename: src/blocks/RenderBlocks.tsx
+    checksum: ef75cf8298b720f086776aab3ae8026c5fe126968447ffa7efd25c80f1bbbd20
+    ignore_detectors: [filecontent, filename]
+  - filename: src/app/(frontend)/next/preview/route.ts
+    checksum: ccfd3f853e657912f0f2b580fe84495a6e2757b445917b4e3fe780225db236b5
+    ignore_detectors: [filecontent, filename]
+  - filename: src/app/(frontend)/next/seed/route.ts
+    checksum: 5ef0355944c01c3cc97bcf0f9e2ad4012fa459e30cbb4a709812ba9f653bafe1
+    ignore_detectors: [filecontent, filename]
+  - filename: README.md
+    checksum: 53da58724358b9af1d7817202c091aa690a4c66726ed5acd395aed871950e595
+    ignore_detectors: [filecontent, filename]
+  - filename: src/blocks/Form/Component.tsx
+    checksum: 560abdeb5e497f3ce30ad926427ec0f4319482c1f1aebfd885891de39f1686fe
+    ignore_detectors: [filecontent, filename]
+  - filename: src/app/(payload)/admin/[[...segments]]/not-found.tsx
+    checksum: 18b6c2600e4075db1b1eb5cc9f59208d26974244a4fedc109e20ba3136bf079f
+    ignore_detectors: [filecontent, filename]
+  - filename: src/app/(payload)/admin/[[...segments]]/page.tsx
+    checksum: 0d1fae6ada245436855005fe428f319564aff5c1d905c29cb4417aabc836b928
+    ignore_detectors: [filecontent, filename]
+  - filename: redirects.js
+    checksum: d63cd0c5bee497f24810bb13de6bdda88331edd8558aedece956960ea00f0e50
+    ignore_detectors: [filecontent, filename]
+  - filename: src/blocks/Form/Country/index.tsx
+    checksum: f26f7dc7e8484d2c29b3dc77bec52a942835bdeb951c359e54c0726616cff465
+    ignore_detectors: [filecontent, filename]
+  - filename: src/Footer/Component.tsx
+    checksum: 3c37edf959fdeaea9d117105a51e25c3577dafa4add34ef46b6b4a2116c61214
+    ignore_detectors: [filecontent, filename]
+  - filename: src/endpoints/seed/post-1.ts
+    checksum: e9a71dbcd80f707292db61b725459b1cb74e2c6c923643c3ff7d351d6a0a3d75
+    ignore_detectors: [filecontent, filename]
+  - filename: src/blocks/CallToAction/Component.tsx
+    checksum: 8f652eb793e958bf0d42c21681be4f851b444911d478751ba8d28c906ed5f29b
+    ignore_detectors: [filecontent, filename]
+  - filename: src/components/AdminBar/index.tsx
+    checksum: 6c8f9cc0d8453ee8818a023321c37cee2c4d35487432ed0a8649a9dc8aefda0f
+    ignore_detectors: [filecontent, filename]
+  - filename: src/payload.config.ts
+    checksum: 8610f87a695e593b16f6e9d7ae4e73e42563136d47b7203645b78e9e52df64af
+    ignore_detectors: [filecontent, filename]
+  - filename: src/heros/PostHero/index.tsx
+    checksum: 666bd227ae9f870e928de1cba8f6b9503475aecf9aad83088f8ec7af81a1a83d
+    ignore_detectors: [filecontent, filename]
+  - filename: src/providers/Theme/ThemeSelector/types.ts
+    checksum: 2d605a94adf024f8ab4822c8b55976d1f8e94325f465e13796a31b9a16a28bde
+    ignore_detectors: [filecontent, filename]
+  - filename: src/blocks/Form/Select/index.tsx
+    checksum: ed6f14bd09126fec458a3a433117b6baf53c7cc9a4710828e29cce0c47f3f07d
+    ignore_detectors: [filecontent, filename]
+  - filename: src/providers/Theme/index.tsx
+    checksum: 0ce591e25f47a4f26a0d19e6c6e4d8e0722f2634c53057bcca8ca05c7ace017b
+    ignore_detectors: [filecontent, filename]
+  - filename: src/providers/Theme/shared.ts
+    checksum: 885cee575bb14106e4fe237f290a4c270a588e258cbca0bc4c07ed5a448e4db5
+    ignore_detectors: [filecontent, filename]
+  - filename: src/components/Card/index.tsx
+    checksum: 19e52fb991914387a63376b0ab1df35ca1d59eee4bef7a9c28f31b658d939a39
+    ignore_detectors: [filecontent, filename]
+  - filename: src/blocks/Form/State/index.tsx
+    checksum: e054b13bf32956d5a4b96a93ff75c5acdbc5e85acf433af82415089942b18efb
+    ignore_detectors: [filecontent, filename]
+  - filename: src/components/CollectionArchive/index.tsx
+    checksum: ed2aa8e21aaaccee24a868860f1188df824e434f9be292bf2b3bff24b4639e6e
+    ignore_detectors: [filecontent, filename]
+  - filename: src/endpoints/seed/index.ts
+    checksum: 0bd2f9cbb6aa40d24cd34ad3666a8143eeba3fff8ad148ca0374f430933ae555
+    ignore_detectors: [filecontent, filename]
+  - filename: src/payload-types.ts
+    checksum: b976ac9c9a41537d8bbcd7f180673e347a09043fcc48869585c737d2b9155db1
+    ignore_detectors: [filecontent, filename]
+version: "1.0"
