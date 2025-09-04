@@ -92,7 +92,7 @@ fileignoreconfig:
   - filename: src/providers/Theme/shared.ts
     checksum: 885cee575bb14106e4fe237f290a4c270a588e258cbca0bc4c07ed5a448e4db5
     ignore_detectors: [filecontent, filename]
-      - filename: src/components/Card/index.tsx
+  - filename: src/components/Card/index.tsx
     checksum: 19e52fb991914387a63376b0ab1df35ca1d59eee4bef7a9c28f31b658d939a39
     ignore_detectors: [filecontent, filename]
   - filename: src/blocks/Form/State/index.tsx
